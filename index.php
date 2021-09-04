@@ -1,3 +1,3 @@
 <?
+echo 'hello from php! we resolve our first conflict! :)';
 
-echo 'hello from php!';
